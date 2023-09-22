@@ -1,7 +1,7 @@
 # Source Windows #
 
 ## Windows 10: ##
-- **Bản Bussiness:**
+- **Bản Bussiness (Edu, Enterprise, Pro, Workstations):**
   - [En-us Windows10 Consumer Editions Version 21 H1 Updated 8.2021 64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQXF7bnqAYdKm7eupVLjeicB48GCs6An-CLimuy7BPQMCw?e=LjfXOD)
   - [En-us Windows10 Consumer Editions Version 21 H1 Updated 8.2021 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZCQnqCVgMJPoy1e9lpBxdUBAoKI7l9T7s-DEKR1ISyqaA?e=SlHMy2)
 - **Bản LTSC 2021 Enterprise:**
