@@ -27,6 +27,6 @@
   - [Windows 7 sp1 Pro 64 en-us]()
   - [Windows 7 sp1 Pro 32 en-us]()
 - **Bản Ultimate:**
-  - [Windows 7 sp1 ULTIMATE 64 en-us]()
-  - [Windows 7 sp1 ULTIMATE 32 en-us]()
+  - [Windows 7 sp1 Ultimate 64 en-us]() 
+  - [Windows 7 sp1 Ultimate 32 en-us]()
 ## [Windows XP SP3]() ##
