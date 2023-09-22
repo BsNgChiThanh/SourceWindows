@@ -17,15 +17,15 @@
 ## Windows 8.1 with update 15 December 2014: ##
 - **Bản Enterprise:**
   - [En-us Windows 8.1 Enterprise Update 64Bit]()
-  - [En-us Windows 8.1 Enterprise Update 32Bit]()
+  - [En-us Windows 8.1 Enterprise Update 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeKlGFt-QKRFvqTITBJslx4BqHqYTYgbfTRSly7roCc_Jw?e=5BLZDV)
 - **Bản Pro, Home:**
   - [En-us Windows 8.1 Pro and Home Update 64Bit]()
   - [En-us Windows 8.1 Pro and Home Update 64Bit]()
 
 ## Windows 7 SP1 final updates (Không chạy được trên WintoHDD) ##
 - **Bản Professional:**
-  - [Windows 7 sp1 Pro 64 en-us]()
-  - [Windows 7 sp1 Pro 32 en-us]()
+  - [Windows 7 sp1 Pro 64 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZuMe5mp5W1EpKZ4XSZgkcsBdoGIpxswgaWCK-PITgSkFA?e=K61Fjk)
+  - [Windows 7 sp1 Pro 32 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZusTJfmPGJAnrSioAaC6AUBuPyY7vblHZw__GiELrU_ew?e=nEYqKH)
 - **Bản Ultimate:**
   - [Windows 7 sp1 Ultimate 64 en-us]() 
   - [Windows 7 sp1 Ultimate 32 en-us]()
