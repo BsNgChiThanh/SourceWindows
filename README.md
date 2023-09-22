@@ -12,5 +12,5 @@
   - [En-us Windows10 Enterprise LTSC 2019_64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EfrNxILYYJNHhY-qCLK_cTwBJg-UIZWgkpWYaYr7akr_Jw?e=Koj9Ik)
   - [En-us Windows10 Enterprise LTSC 2019_32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdYS2P6rcuJKgCcRfK9rPzoB4MSznUZDUF1mmJ3odWaw2g?e=RRywpU)
 - **Bản 21 H2 AIO:**
-  - [Win10 21H2 English 64Bit]()
+  - [Win10 21H2 English 64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EY0T-3JZMNhMposoR68Bgu4BVnsK29-UoQMaPMmAloR3IQ?e=VW2l1n)
   - [Win10 21H2 English 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EU1TeWCWF3xIk-wQSD3XAOQBbPVKs-zknxGKgJps2O1zOw?e=fhBDNg)
