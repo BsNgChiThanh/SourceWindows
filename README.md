@@ -16,7 +16,7 @@
 
 ## Windows 8.1 with update 15 December 2014: ##
 - **Bản Enterprise:**
-  - [En-us Windows 8.1 Enterprise Update 64Bit]()
+  - [En-us Windows 8.1 Enterprise Update 64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ES4As7SRuSxAsFeqJ5OmpaIBct3xuhsaHteVdJbubk1v7Q?e=G8D1sz)
   - [En-us Windows 8.1 Enterprise Update 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeKlGFt-QKRFvqTITBJslx4BqHqYTYgbfTRSly7roCc_Jw?e=5BLZDV)
 - **Bản Pro, Home:**
   - [En-us Windows 8.1 Pro and Home Update 64Bit]()
