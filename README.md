@@ -20,8 +20,8 @@
   - [En-us Windows 8.1 Enterprise Update 64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ES4As7SRuSxAsFeqJ5OmpaIBct3xuhsaHteVdJbubk1v7Q?e=G8D1sz)
   - [En-us Windows 8.1 Enterprise Update 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeKlGFt-QKRFvqTITBJslx4BqHqYTYgbfTRSly7roCc_Jw?e=5BLZDV)
 - **Bản Pro, Home:**
-  - [En-us Windows 8.1 Pro and Home Update 64Bit]()
-  - [En-us Windows 8.1 Pro and Home Update 64Bit]()
+  - [En-us Windows 8.1 Pro and Home Update 64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUEEQyTefsxBrN3fl32t9qYBiJUOx06gxfN7TjgJ5A9-3Q?e=vDl2p2)
+  - [En-us Windows 8.1 Pro and Home Update 32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeKsIwnaAlJIj6KZuuo8dZQBzNANVX9AvPhUNkEorAQcIA?e=dkpoAJ)
 
 ## Windows 7 SP1 final updates (Không chạy được trên WintoHDD) ##
 - **Bản Professional:**
@@ -31,3 +31,4 @@
   - [Windows 7 sp1 Ultimate 64 en-us]() 
   - [Windows 7 sp1 Ultimate 32 en-us]()
 ## [Windows XP SP3]() ##
+## Ý kiến bạn đọc [bấm vào đây](https://forms.office.com/r/jQ8AwU3nbi)
