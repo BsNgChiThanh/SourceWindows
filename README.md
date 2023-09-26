@@ -28,7 +28,7 @@
   - [Windows 7 sp1 Pro 64 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZuMe5mp5W1EpKZ4XSZgkcsBdoGIpxswgaWCK-PITgSkFA?e=K61Fjk)
   - [Windows 7 sp1 Pro 32 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZusTJfmPGJAnrSioAaC6AUBuPyY7vblHZw__GiELrU_ew?e=nEYqKH)
 - **Bản Ultimate:**
-  - [Windows 7 sp1 Ultimate 64 en-us]() 
-  - [Windows 7 sp1 Ultimate 32 en-us]()
+  - [Windows 7 sp1 Ultimate 64 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eec4M52Aju9NlQ3ntUw6Zd4BFLc-xlG-AWZB5Kw0Hp1mUw?e=gzvVLP) 
+  - [Windows 7 sp1 Ultimate 32 en-us](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZmZ3byyIQxEgU9ZPj95wvQB5mz-HqCfvrWCFwcjeAP_pw?e=uMEd5k)
 ## [Windows XP SP3]() ##
 ## Ý kiến bạn đọc [bấm vào đây](https://forms.office.com/r/jQ8AwU3nbi)
